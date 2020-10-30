@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Portfolio Website on Joe Kazmi</title>
+    <link>https://yussofkazmi.github.io/JoeK_Portfolio/</link>
+    <description>Recent content in Project Portfolio Website on Joe Kazmi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yussofkazmi.github.io/JoeK_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Big Data Heart Disease Classifier</title>
+      <link>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-1/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-1/</guid>
+      <description>This project was a small but fun project that dealt with a heart disease data set with 76 attributes, 14 of which were used. The feature label that is to be predicted is the prescence of heart disease on a scale from 0 to 4, where 0 is &amp;lsquo;not present&amp;rsquo; and 4 is &amp;lsquo;highly present&amp;rsquo;.
+Parts of the dataset had missing/NULL values, so I wrote a script to scan over all those values, replace them with a numerical value repsenting that they were missing, and then rewrite it to a new csv.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: MLB Teams Deviations Analysis</title>
+      <link>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-2/</guid>
+      <description>This project delves into the world of baseball, specifically in the Major leagues. Here, we take a look at every single major league team from 1871 to 2018. We look at each team&amp;rsquo;s record of wins and losses and utilize a neat formula for some of our calculations. To accomplish a task that requires so much data and peak organization, I leveraged Pandas and NumPy, two very popular Python frameworks for Data Cleaning, Aggregation, and Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Bitcoin Trading-Pattern Machine Learning Analysis</title>
+      <link>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-3/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-3/</guid>
+      <description>GitHub Repository
+Machine Learning Dataset
+This project is one of my favorites, and I am currently working on a research publication involving it. Basically, the project is centered around machine learning classification tasks in relation to Bitcoin trading patterns in ransomware entities. Ransomeware is basically a program that encrypts file in such a way that the only way to get past that encryption is to pay money. Therefore it is extorition of money, and this type of attack deals in payment through bitcoin because of bitcoin&amp;rsquo;s high accessability and ease of use.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Bioinformatics Gene Motif Calculator</title>
+      <link>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-4/</guid>
+      <description>GitHub Repository
+This project breaks into the world of Bioinformatics which is a relatively new field combining data science and biology, essentially. One big theme in Bioinformatics, is analyzing genetic codes and finding patterns in the code such as genetic motifs (a repeated phrase of a gene code in in the form of its four bases). Gene motifs are short and recurring which signifies that maybet here is some type of biological logic or function present there that can be further investigated.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Calculator Mobile Application</title>
+      <link>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-5/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yussofkazmi.github.io/JoeK_Portfolio/post/project-5/</guid>
+      <description>GitHub Repository 
+So, this calculator project involves making a jump into completely different environment than my usual data science adventures. First and foremost, it required learning how to use Andorid Studio, and the nuances with it. Secondly, I had to learn to develop a Proper UI in XML with Android Studio and its widgets. Thirdly, I had to learn the Kotlin programming language to make a proper and efficient backend.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://yussofkazmi.github.io/JoeK_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yussofkazmi.github.io/JoeK_Portfolio/contact/</guid>
+      <description>I am student currently enrolled in a computer science bachelors and data science masters program. I started programming freshman year, and fell in love with it, and am happy to say I have found topics I really am interested in. I have a passion for solving problems in with data science and computer science skilsets and really want to help make a positive difference in the world doing so.
+Recently, I have been learning more Machine Learning Algorithms and applying some classification algorithms to existing data set in data sets and exploring how to further tune them for effciency.</description>
+    </item>
+    
+  </channel>
+</rss>
